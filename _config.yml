@@ -44,8 +44,8 @@ baidu_id:
 disqus_shortname: blog-rosuh-me
 
 about: 
-  banner: https://img.ioioi.top/personal/3431596.jpg
-  avatar: https://img.ioioi.top/personal/author_logo.png
+  banner: /css/images/banner.webp
+  avatar: /css/images/avatar.png
   description: "『任何足夠先進的科技，皆與魔法無異』"
   weibo_username: 
   twitter_username: rosu_h
